@@ -17,3 +17,7 @@ Typing the info in node js and get the html information
 
 ## Reference Structure
 ![sctructure](https://github.com/Morganbb104/Team-Profile-Generator/blob/main/rsc/images/structure.jpg)
+
+## Demo video
+
+https://github.com/Morganbb104/Team-Profile-Generator/blob/main/rsc/videos/bandicam%202022-03-01%2013-21-59-342.mp4
