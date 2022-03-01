@@ -19,5 +19,5 @@ Typing the info in node js and get the html information
 ![sctructure](https://github.com/Morganbb104/Team-Profile-Generator/blob/main/rsc/images/structure.jpg)
 
 ## Demo video
+https://user-images.githubusercontent.com/33117688/156266268-cc8de50a-19e8-4be1-b126-abcd381409f9.mp4
 
-https://github.com/Morganbb104/Team-Profile-Generator/blob/main/rsc/videos/bandicam%202022-03-01%2013-21-59-342.mp4
