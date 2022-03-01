@@ -1,6 +1,6 @@
 function generateHTML(data) {
     let employeeInfo = ``;
-    for (var i = 0; i < data.length; i = i + 1) {
+    for (let i = 0; i < data.length; i = i + 1) {
         let extraItem = ``;
         if(data[i].getRole() === 'Role: Manager'){
             extraItem = data[i].getOfficeNumber()
@@ -12,6 +12,7 @@ function generateHTML(data) {
             extraItem = data[i].getGithub()
         }
 
+
         let card = `<div>
             <h2>Name:${data[i].getName()}</h2>
             <h3>${data[i].getRole()}</h3>
@@ -21,10 +22,11 @@ function generateHTML(data) {
         </div>`;
 
         employeeInfo += card;
+        // employeeInfo = employeeInfo + card;
     }
 
-
-    return `
+    // return the html template, and put  ${employeeInfo} inside
+    return ` 
     <!DOCTYPE html>
 <html lang="en">
 <head>

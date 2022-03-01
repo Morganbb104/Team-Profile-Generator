@@ -4,8 +4,8 @@
   box-sizing: border-box;
 }
 body {
-  background-color: #23a7b1;
-  color: #23120b;
+  background: linear-gradient(0.25turn, #3f63a6, #e1f3f8, #f63caf);
+  color: #e8f0e88f;
 }
 .header-wrapper {
   display: flex;
@@ -32,7 +32,7 @@ h1 {
   padding: 10px;
   margin: 20px;
   text-align: center;
-  background-color: #ad1f9a;
+  background-color: #2a1027;
   width: 50vh;
 }
 
