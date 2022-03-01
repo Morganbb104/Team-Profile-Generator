@@ -6,11 +6,11 @@ class Employee {
     }
 
     getName() {
-        return `Name: ${this.name}`;
+        return `${this.name}`;
     }
 
     getId() {
-        return `ID: ${this.id}`;
+        return `${this.id}`;
     }
 
     getEmail() {
