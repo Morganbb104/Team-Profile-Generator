@@ -14,7 +14,7 @@ function generateHTML(data) {
 
         let card = `<div>
             <h2>Name:${data[i].getName()}</h2>
-            <h3>Role: ${data[i].getRole()}</h3>
+            <h3>${data[i].getRole()}</h3>
             <p>ID:${data[i].getId()}</p>
             <p>Email:<a href="mailto:https://${data[i].getEmail()}">${data[i].getEmail()}</a></p>
             <p>${extraItem}</p>
