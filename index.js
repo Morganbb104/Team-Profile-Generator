@@ -6,9 +6,9 @@ const licenseArr = ["Academic Free License v3.0", "Apache license 2.0", "Artisti
 
 const questions=[
     {//Project name
-        type: "input",
+        type: "text",
         message: "what is your project Name?",
-        name: "Title",
+        name: "name",
         default:'Project',
       },
       {//Description
