@@ -5,6 +5,12 @@ We can generate a html file with team members' information by typing its name, i
 ## Live link
 https://morganbb104.github.io/Team-Profile-Generator/
 
+## How to use
+(1)Open your terminal and type in node index.js 
+(2)answer all prompts
+(3)Choose yes or no while you're asked to add other employee
+(4)you will get a html file in dist folder and you can see your employee info card displayed.
+
 ## User story
 AS A manager I WANT to generate a webpage that displays my team's basic info SO THAT I have quick access to their emails and GitHub profiles
 ## Screenshot
